@@ -1,0 +1,15 @@
+/* Optimize for SEO Styles */
+
+.optimize_for_seo-container {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.optimize_for_seo-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+/* TODO: Add component-specific styles */
