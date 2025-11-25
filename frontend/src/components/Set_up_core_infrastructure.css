@@ -1,0 +1,15 @@
+/* Set up core infrastructure Styles */
+
+.set_up_core_infrastructure-container {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.set_up_core_infrastructure-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+/* TODO: Add component-specific styles */
