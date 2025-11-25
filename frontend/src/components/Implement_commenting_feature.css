@@ -1,0 +1,15 @@
+/* Implement commenting feature Styles */
+
+.implement_commenting_feature-container {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.implement_commenting_feature-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+/* TODO: Add component-specific styles */
