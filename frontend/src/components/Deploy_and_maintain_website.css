@@ -1,0 +1,15 @@
+/* Deploy and maintain website Styles */
+
+.deploy_and_maintain_website-container {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.deploy_and_maintain_website-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+/* TODO: Add component-specific styles */
